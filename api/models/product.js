@@ -9,3 +9,4 @@ const productSchema = mongoose.Schema({
 
 module.exports = mongoose.model('Product', productSchema)
 //new lines of code added
+// replicator's edits
