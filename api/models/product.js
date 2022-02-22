@@ -11,4 +11,4 @@ module.exports = mongoose.model('Product', productSchema)
 // new lines of code added
 // artur's edits
 // artur's edits 2
-// artur's edits 3
+// replicator's edits 3
