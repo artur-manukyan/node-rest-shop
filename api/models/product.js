@@ -8,5 +8,6 @@ const productSchema = mongoose.Schema({
 })
 
 module.exports = mongoose.model('Product', productSchema)
-//new lines of code added
-// replicator's edits
+// new lines of code added
+// artur's edits
+// artur's edits 2
