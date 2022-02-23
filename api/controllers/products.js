@@ -127,3 +127,5 @@ exports.delete_product = (req, res, next) => {
             })
         })
 }
+
+// conde inserted - author issue replicator
