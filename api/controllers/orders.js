@@ -109,3 +109,5 @@ exports.delete_order = (req, res, next) => {
             })
         })
 }
+
+// some code applied - author Lusine
